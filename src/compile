@@ -1,0 +1,1 @@
+g++ -std=gnu++23 -shared -fPIC -o symexec.so main.cpp execute.cpp -Iinclude -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/plugin/include
