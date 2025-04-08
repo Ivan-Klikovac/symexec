@@ -30,5 +30,5 @@ Each basic block is associated with a state which describes the symbolic values 
 GNU Affero General Public License version 3. The full license can be found in the LICENSE file, in the root of this repository.
 
 ## Maintainers
-Ivan Klikovac (Ivan-Klikovac)
-Vukašin Stević (SquareWinter68)
+- Ivan Klikovac (Ivan-Klikovac)
+- Vukašin Stević (SquareWinter68)
